@@ -1,6 +1,6 @@
 ## Dante Alighieri: in the eyes of an ignorant, through the lens of a cult
 
-tags: writing, dante-alighieri
+tags: writing
 
 *aka my Florence and Ravenna travel logs w/ badly captured photos*
 

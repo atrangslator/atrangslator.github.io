@@ -1,5 +1,5 @@
 ---
 title: "My Writings in English"
-categories: write_en
+categories: writings_english
 layout: project
 ---

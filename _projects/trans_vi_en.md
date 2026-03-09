@@ -1,5 +1,5 @@
 ---
 title: "My Translations: Vietnamese > English"
-categories: trans_vi_en
+categories: translations_vi2en
 layout: project
 ---

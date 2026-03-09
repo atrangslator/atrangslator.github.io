@@ -45,3 +45,8 @@ collections:
   projects:
     output: true
     permalink: /:collection/:categories:name
+
+header_pages:
+  - index.md
+  - projects.md
+  - archive.md

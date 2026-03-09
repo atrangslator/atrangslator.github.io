@@ -21,6 +21,14 @@ layout: default
     {% include sharelinks.html %}
   </div>
 
+  {%- if page.tags -%}
+    {% for tag in page.tags %}
+        <a href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
+            #{{ tag }}
+        </a>
+    {% endfor %}
+{%- endif -%}
+  
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
     {% include navlinks.html %}

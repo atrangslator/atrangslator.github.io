@@ -44,4 +44,4 @@ defaults:
 collections:
   projects:
     output: true
-    permalink: /:collection/:categories:output_ext
+    permalink: /:collection/:categories:name

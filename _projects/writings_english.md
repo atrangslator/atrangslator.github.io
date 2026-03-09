@@ -1,6 +1,6 @@
 ---
-title: "My Writings in English"
-categories: writings_english
+title: "On writing"
+categories: on-writing
 layout: project
 is_category: true
 ---

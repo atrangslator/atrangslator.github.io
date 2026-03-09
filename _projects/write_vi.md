@@ -1,5 +1,5 @@
 ---
 title: "Các bài viết bằng tiếng Việt"
-categories: write_vi
+categories: writing-vietnamese
 layout: project
 ---

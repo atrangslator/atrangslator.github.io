@@ -1,6 +1,6 @@
 ---
-title: "My Translations: Vietnamese > English"
-categories: translations_vi2en
+title: "Edgar Allan Poe"
+categories: edgar-poe
 layout: project
 is_category: true
 ---

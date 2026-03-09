@@ -47,6 +47,6 @@ collections:
     permalink: /:collection/:name
 
 header_pages:
-  - index.md
-  - projects.md
+  - about.md
+  - projects_index.md
   - archive.md

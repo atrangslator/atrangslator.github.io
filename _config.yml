@@ -44,7 +44,7 @@ defaults:
 collections:
   projects:
     output: true
-    permalink: /:collection/:categories:name
+    permalink: /:collection/:name
 
 header_pages:
   - index.md

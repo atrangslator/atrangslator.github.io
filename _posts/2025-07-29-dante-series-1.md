@@ -1,6 +1,8 @@
-## Dante Alighieri: in the eyes of an ignorant, through the lens of a cult
-
-tag: dante-alighieri
+---
+layout: post
+title: "Dante Alighieri: in the eyes of an ignorant, through the lens of a cult"
+tags: dante-alighieri
+---
 
 *aka my Florence and Ravenna travel logs w/ badly captured photos*
 

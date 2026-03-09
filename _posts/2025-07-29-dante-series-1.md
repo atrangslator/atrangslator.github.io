@@ -1,5 +1,7 @@
 ## Dante Alighieri: in the eyes of an ignorant, through the lens of a cult
 
+tags: writing, dante-alighieri
+
 *aka my Florence and Ravenna travel logs w/ badly captured photos*
 
 A year ago, as a gift to myself after graduation, I went on a week-long solo trip to some Italian cities, and unintentionally found Dante. Or maybe his spirit found me, but my non-religious self will excuse it as a natural consequence of choices and circumstances that turned an indifferent into a fake devout (read: interested, at a very surface level).

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Dante Alighieri: in the eyes of an ignorant, through the lens of a cult"
-tags: dante-alighieri
+categories: dante-alighieri
+tags: writings-english
 ---
 
 *aka my Florence and Ravenna travel logs w/ badly captured photos*

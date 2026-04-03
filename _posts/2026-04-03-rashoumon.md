@@ -1,5 +1,5 @@
 ---
-title: "Rashōmon (1950) - đạo diễn Akira Kurosawa: Sự thật và lòng người"
+title: "Bình luận phim: Rashōmon (1950) - đạo diễn Akira Kurosawa: Sự thật và lòng người"
 layout: post
 categories: watch-with-me
 tags: writings-vietnamese

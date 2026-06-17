@@ -1,5 +1,5 @@
 ---
-title: "Bình luận phim: The Joy of Mozart (2015)"
+title: "[Bình luận phim] The Joy of Mozart (2015)"
 categories: watch-with-me
 tags: writings-vietnamese
 layout: post

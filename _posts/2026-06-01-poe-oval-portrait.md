@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Bài dịch] Bức chân dung hình bầu dục - Edgar Allan Poe"
+title: "[Bài dịch] Bức chân dung hình bầu dục -- Edgar Allan Poe"
 categories: edgar-poe
 tags: translations-en2vi
 ---

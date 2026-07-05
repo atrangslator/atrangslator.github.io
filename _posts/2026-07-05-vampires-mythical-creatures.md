@@ -55,6 +55,7 @@ Arata, S. D. (1990). The Occidental Tourist: "Dracula" and the Anxiety of Revers
 Barber, P. (1987). Forensic Pathology and the European Vampire. In A. Dundes (Ed.), The Vampire: A Casebook (pp. 109-142). The University of Wisconsin Press.
 
 Craft, C. (1984). "Kiss Me with those Red Lips": Gender and Inversion in Bram Stoker's Dracula. Representations, 8(Autumn 1984), 107-133.
+
 Halmi, N. (2016). “A dream, which was not all a dream”: dark reflections from June 1816. Oxford University Press Blog. https://blog.oup.com/2016/06/byron-ghost-story-competition/
 
 Harper, D. Etymology of vampire. In Online Etymology Dictionary. Retrieved May 19, 2023, from https://www.etymonline.com/word/vampire

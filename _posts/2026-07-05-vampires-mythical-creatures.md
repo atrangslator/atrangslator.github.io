@@ -37,7 +37,10 @@ Early vampires are certainly not the most charming creatures. Then, where did th
 
 While Lord Ruthven was considered the first romantic vampire, it is no doubt that Dracula is the most famous and important one. Inspired by previous literary works including Polidori’s “The Vampyre,” Sheridan Le Fanu’s “Carmilla,” and vampire folk tales, Bram Stoker wrote “Dracula” in 1897. Dracula, “with his thin, aquiline nose, his ‘lofty domed forehead,’ and above all his ‘peculiarly sharp teeth; these protruded over the lips, whose remarkable ruddiness showed astonishing vitality in a man of his years,’” is a 400-year-old vampire parading under the guise of an ominous nobleman (Kostova, 2005, p. 4). The work incorporated historical elements and materials from the Victorian era and Transylvanian folklore, together with newly invented elements like vampires’ fear of crucifixes, vulnerability to sunlight's exposure, and lack of reflection in the mirror. However, in novel form, “Dracula” only achieved moderate success. The reputation for this work only came when a German studio produced an unlicensed silent movie adaptation—“Nosferatu”—in 1922, and lost the copyright battle, which led to the copyright establishment over Hamilton Deane’s stage production of Dracula. The stage version, despite its major differences from the novel, was a success, largely thanks to Bela Lugosi’s performance as Dracula, and his portrayal persisted through time until the present day (Molina, 2013; Stepanic, 2017).
 
-[Photo: Bela Lugosi as Dracula. Caption: Bela Lugosi as Dracula, anonymous photograph from 1931, Universal Studios. Public Domain. [Source](https://commons.wikimedia.org/wiki/File:Bela_Lugosi_as_Dracula,_anonymous_photograph_from_1931,_Universal_Studios.jpg)]
+<img width="915" height="1193" alt="Bela_Lugosi_as_Dracula,_anonymous_photograph_from_1931,_Universal_Studios" src="https://github.com/user-attachments/assets/6d352e7b-9af0-4d96-a591-f04c7db966ef" />
+*Bela Lugosi as Dracula, anonymous photograph from 1931, Universal Studios. Public Domain.* 
+[Source](https://commons.wikimedia.org/wiki/File:Bela_Lugosi_as_Dracula,_anonymous_photograph_from_1931,_Universal_Studios.jpg)
+
 
 More than simply fascinating stories about a mythical, seductive creature, vampire imagery is associated with many symbolisms and meanings, and plays a cultural and social role. As a myth, vampires provide a “pre-logic” explanation to phenomena like deaths from unknown plagues and diseases, in contrast to science, as shown above. It also has the characteristic of binary opposition, signifying the battle between good and evil, between morality and immorality, between traditional and “invasive” values. In Dracula, Britain was declining as a world power in the late-nineteenth century and its people were losing confidence in the country’s influence. Additionally, fear of reverse colonization—the “civilized” values seemed to be under threat of “primitive” ones—started spreading. Thus, Dracula, with his ambiguous, obscure origins and associations with Transylvania—a far away land that was considered somewhat savage—was seen as an exotic external force and a sign of trouble as he invaded London—the heart of Great Britain. Dracula’s spread of vampirism symbolized invasive values from other cultures that were corrupting traditional values of the Victorian era: he did not simply destroy his victims but turned them into one of his kind, thus extending his conquest even further. The battle between the protagonists and the vampires was an attempt to take back the values and ease the anxieties of the time (Arata, 1990).
 
@@ -45,18 +48,29 @@ Another meaning associated with vampires is sexual deviancy. Within the setting 
 
 To conclude, the vampire myth, despite its seemingly simple concept, has a long history and significant cultural values. With such complexity, the scope of this essay is, without doubt, limited. All in all, the vampire legacy has persisted, and will continue to persist and evolve for many years to come.
 
+
 **References**
 
 Arata, S. D. (1990). The Occidental Tourist: "Dracula" and the Anxiety of Reverse Colonization. Victorian Studies, 4(Summer 1990), 621-645.
 Barber, P. (1987). Forensic Pathology and the European Vampire. In A. Dundes (Ed.), The Vampire: A Casebook (pp. 109-142). The University of Wisconsin Press.
+
 Craft, C. (1984). "Kiss Me with those Red Lips": Gender and Inversion in Bram Stoker's Dracula. Representations, 8(Autumn 1984), 107-133.
 Halmi, N. (2016). “A dream, which was not all a dream”: dark reflections from June 1816. Oxford University Press Blog. https://blog.oup.com/2016/06/byron-ghost-story-competition/
+
 Harper, D. Etymology of vampire. In Online Etymology Dictionary. Retrieved May 19, 2023, from https://www.etymonline.com/word/vampire
+
 Kostova, E. (2005). Foreword. In Dracula (pp. 4-11). Hachette Book Group.
+
 Lê, Q. Đ. (1977). Quyển VI: Phong vực. In Kiến văn tiểu lục. Social Sciences Publishing House.
+
 Molina, M. (2013). Vampires: Folklore, fantasy and fact [Video file]. https://youtu.be/_0ThKRmySoU
+
 Morrison, R. (2012). Vampyre Rising. Oxford University Press Blog. https://blog.oup.com/2012/06/vampyre-rising-polidori/
+
 Murgoci, A. (1926). The Vampire in Roumania. In A. Dundes (Ed.), The Vampire: A Casebook (pp. 12-34). The University of Wisconsin Press.
+
 Stepanic, S. (2017). How did Dracula become the world's most famous vampire? [Video file]. https://youtu.be/7uiyz3139tE
+
 vampire. (1989). Oxford English Dictionary. Retrieved May 19, 2023, from https://www.oed.com/oed2/00274736
+
 Wilson, K. M. (1985). The History of the Word Vampire. In A. Dundes (Ed.), The Vampire: A Casebook (pp. 3-11). The University of Wisconsin Press.
